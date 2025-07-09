@@ -24,7 +24,10 @@ export default function CharacterPage() {
   return (
     <div className="character-page">
       <div className="banner">
-        <img src={character.image} alt={character.name} />
+        <img
+          src={`${process.env.PUBLIC_URL}/${character.image}`}
+          alt={character.name}
+        />
       </div>
       <div className="details">
         <h1>{character.name}</h1>
@@ -74,7 +77,7 @@ export default function CharacterPage() {
                 {character.gallery.map((imgUrl, index) => (
                   <div className="gallery-item" key={index}>
                     <img
-                      src={imgUrl}
+                      src={`${process.env.PUBLIC_URL}/${imgUrl}`}
                       alt={`Galerie ${character.name} ${index + 1}`}
                       onClick={() => {
                         setCurrentImageIndex(index);
@@ -88,18 +91,18 @@ export default function CharacterPage() {
 
             {isLightboxOpen && (
               <Lightbox
-                mainSrc={character.gallery[currentImageIndex]}
-                nextSrc={
+                mainSrc={`${process.env.PUBLIC_URL}/${character.gallery[currentImageIndex]}`}
+                nextSrc={`${process.env.PUBLIC_URL}/${
                   character.gallery[
                     (currentImageIndex + 1) % character.gallery.length
                   ]
-                }
-                prevSrc={
+                }`}
+                prevSrc={`${process.env.PUBLIC_URL}/${
                   character.gallery[
                     (currentImageIndex + character.gallery.length - 1) %
                       character.gallery.length
                   ]
-                }
+                }`}
                 onCloseRequest={() => setIsLightboxOpen(false)}
                 onMovePrevRequest={() =>
                   setCurrentImageIndex(

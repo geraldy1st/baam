@@ -24,14 +24,14 @@ export default function UniversePage() {
 
   // mapping univers -> image
   const banners = {
-    Tekken: "/images/banner-tekken.jpg",
-    "Virtua Fighter": "/images/banner-vf.jpg",
-    "Street Fighter": "/images/banner-sf.jpg",
-    BAAM: "/images/banner-baam.jpg",
+    Tekken: "images/banner-tekken.jpg",
+    "Virtua Fighter": "images/banner-vf.jpg",
+    "Street Fighter": "images/banner-sf.jpg",
+    BAAM: "images/banner-baam.jpg",
   };
 
   const bannerImage =
-    banners[filteredCharacters[0]?.universe] || "/images/default-banner.jpg";
+    banners[filteredCharacters[0]?.universe] || "images/default-banner.jpg";
 
   const introText = intros[filteredCharacters[0]?.universe] || "";
 
@@ -48,7 +48,9 @@ export default function UniversePage() {
     <div className="universe-page">
       <div
         className="universe-banner"
-        style={{ backgroundImage: `url(${bannerImage})` }}
+        style={{
+          backgroundImage: `url(${process.env.PUBLIC_URL}/${bannerImage})`,
+        }}
       >
         <h1>{filteredCharacters[0].universe}</h1>
       </div>

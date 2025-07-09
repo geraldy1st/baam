@@ -2,7 +2,7 @@
     {
         "id": "kazuya",
         "name": "Kazuya Mishima",
-        "image": "/images/kazuya.png",
+        "image": "images/kazuya.png",
         "origin": "Japon",
         "style": "Karate Mishima",
         "age": 48,
@@ -13,9 +13,9 @@
         "first_appearance": "Tekken",
         "universe": "Tekken",
         "gallery": [
-            "/images/kazuya-1.png",
-            "/images/kazuya-2.png",
-            "/images/kazuya-3.png"
+            "images/kazuya-1.png",
+            "images/kazuya-2.png",
+            "images/kazuya-3.png"
         ],
         "relationships": {
             "father": "Heihachi Mishima",
@@ -29,7 +29,7 @@
     {
         "id": "heihachi",
         "name": "Heihachi Mishima",
-        "image": "/images/heihachi.png",
+        "image": "images/heihachi.png",
         "origin": "Japon",
         "age": 68,
         "style": "Karate Mishima",
@@ -51,7 +51,7 @@
     {
         "id": "Ryu",
         "name": "Ryu Hoshi",
-        "image": "/images/ryu.png",
+        "image": "images/ryu.png",
         "origin": "Japon",
         "style": "Hado",
         "age": "Unknown",
@@ -72,7 +72,7 @@
     {
         "id": "kendo",
         "name": "Kendo Kenzaki",
-        "image": "/images/kendo.png",
+        "image": "images/kendo.png",
         "origin": "Tokyo, Japon",
         "style": "Kenjutsu augmenté",
         "description": "Kendo est un ancien soldat cybernétique maîtrisant le sabre et la vitesse fulgurante.",
@@ -80,9 +80,9 @@
             "Mon katana voit plus vite que tes pensées."
         ],
         "gallery": [
-            "/images/kendo.png",
-            "/images/kendo-1.png",
-            "/images/kendo-2.png"
+            "images/kendo.png",
+            "images/kendo-1.png",
+            "images/kendo-2.png"
         ],
         "first_appearance": "BAAM Origins",
         "universe": "BAAM",
@@ -94,7 +94,7 @@
     {
         "id": "zero-unit",
         "name": "ZERO-UNIT",
-        "image": "/images/zero-2.jpeg",
+        "image": "images/zero-2.jpeg",
         "origin": "Laboratoire clandestin N-11",
         "style": "Combat automatique (AI martial system)",
         "description": "ZERO-UNIT est un robot de combat expérimental échappé du contrôle militaire.",
@@ -104,8 +104,8 @@
         "first_appearance": "BAAM Revolt",
         "universe": "BAAM",
         "gallery": [
-            "/images/zero-1.jpeg",
-            "/images/zero-2.jpeg"
+            "images/zero-1.jpeg",
+            "images/zero-2.jpeg"
         ],
         "relationships": {
             "creator": "Dr. Vahlen",
@@ -115,7 +115,7 @@
     {
         "id": "naomi",
         "name": "Naomi K.",
-        "image": "/images/naomi.png",
+        "image": "images/naomi.png",
         "origin": "Lagos, Nigeria",
         "style": "Danse du feu / Techno-kickboxing",
         "description": "Naomi combine art ancestral et rythmes électro pour hypnotiser ses adversaires.",
@@ -132,7 +132,7 @@
     {
         "id": "lina",
         "name": "Lina Torres",
-        "image": "/images/lina.png",
+        "image": "images/lina.png",
         "origin": "Medellín, Colombie",
         "style": "Combat urbain furtif",
         "description": "Ancienne hackeuse reconvertie en combattante rebelle, experte en infiltration.",
@@ -150,7 +150,7 @@
     {
         "id": "fenrir",
         "name": "Fenrir",
-        "image": "/images/fenrir.png",
+        "image": "images/fenrir.png",
         "origin": "Terres gelées du Nord",
         "style": "Style berserker cybernétique",
         "description": "Guerrier mi-homme mi-machine, Fenrir sème la destruction sur les arènes gelées.",
@@ -167,7 +167,7 @@
     {
         "id": "akira",
         "name": "Akira Yuki",
-        "image": "/images/akira-4.png",
+        "image": "images/akira-4.png",
         "origin": "Japon",
         "style": "Ba Ji Quan",
         "age": 27,
@@ -179,9 +179,9 @@
         "universe": "Virtua Fighter",
         "gallery": [
             "https://content-eu.drive.amazonaws.com/cdproxy/templink/vGy6JqSbXKspjvyL6HeMC7Lt6o2D-FG9aFFlTzvNZJUeJxFPc?viewBox=1103",
-            "/images/akira-2.png",
-            "/images/akira-3.png",
-            "/images/akira-4.png"
+            "images/akira-2.png",
+            "images/akira-3.png",
+            "images/akira-4.png"
         ],
         "relationships": {
             "grandfather": "Akira's Grandfather (Ba Ji master)"
@@ -196,7 +196,7 @@
     {
         "id": "sarah",
         "name": "Sarah Bryant",
-        "image": "/images/sarah-2.png",
+        "image": "images/sarah-2.png",
         "origin": "États-Unis",
         "style": "Jeet Kune Do",
         "age": 25,
@@ -207,8 +207,8 @@
         "first_appearance": "Virtua Fighter (1993)",
         "universe": "Virtua Fighter",
         "gallery": [
-            "/images/sarah-1.png",
-            "/images/sarah-2.png"
+            "images/sarah-1.png",
+            "images/sarah-2.png"
         ],
         "relationships": {
             "brother": "Jacky Bryant"
@@ -221,7 +221,7 @@
     {
         "id": "lau",
         "name": "Lau Chan",
-        "image": "/images/lau.png",
+        "image": "images/lau.png",
         "origin": "Chine",
         "style": "Koen-ken",
         "age": 57,
@@ -232,9 +232,9 @@
         "first_appearance": "Virtua Fighter (1993)",
         "universe": "Virtua Fighter",
         "gallery": [
-            "/images/lau-1.png",
-            "/images/lau-2.png",
-            "/images/lau-3.png"
+            "images/lau-1.png",
+            "images/lau-2.png",
+            "images/lau-3.png"
         ],
         "relationships": {
             "daughter": "Pai Chan"
