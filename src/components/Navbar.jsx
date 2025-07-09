@@ -5,12 +5,12 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-content">
-        <Link to="/" className="logo">
+        <Link to="/baam" className="logo">
           BAAM
         </Link>
         <ul className="nav-links">
           <li>
-            <Link to="/">Accueil</Link>
+            <Link to="/baam">Accueil</Link>
           </li>
           <li>
             <Link to="/about">À propos</Link>

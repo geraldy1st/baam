@@ -49,7 +49,7 @@
         "video": "https://www.youtube.com/embed/CstA0ys0Rfk"
     },
     {
-        "id": "Ryu",
+        "id": "ryu",
         "name": "Ryu Hoshi",
         "image": "images/ryu.png",
         "origin": "Japon",
@@ -67,6 +67,55 @@
         "videos": [
             "https://www.youtube.com/embed/CstA0ys0Rfk",
             "https://www.youtube.com/embed/fPl2mQ5obg8?si=sb073IlQ9Kq2mNVh"
+        ]
+    },
+    {
+        "id": "ken",
+        "name": "Ken Master",
+        "image": "images/ken.png",
+        "origin": "Japon",
+        "style": "Hado",
+        "age": "Unknown",
+        "description": "coming soon...",
+        "quotes": [
+            "..."
+        ],
+        "gallery": [
+            "images/ken-1.png",
+            "images/ken-2.png"
+        ],
+        "first_appearance": "Street Fighter",
+        "universe": "Street Fighter",
+        "relationships": {
+            "friend": "Ryu"
+        },
+        "videos": [
+            "https://www.youtube.com/embed/CstA0ys0Rfk",
+            "https://www.youtube.com/embed/fPl2mQ5obg8?si=sb073IlQ9Kq2mNVh"
+        ]
+    },
+    {
+        "id": "chunli",
+        "name": "Chun Li",
+        "image": "images/chunli.png",
+        "origin": "Chine",
+        "style": "Kung fu",
+        "age": "Unknown",
+        "description": "coming soon...",
+        "quotes": [
+            "..."
+        ],
+        "gallery": [
+            "images/chunli-1.png",
+            "images/chunli-2.png"
+        ],
+        "first_appearance": "Street Fighter",
+        "universe": "Street Fighter",
+        "relationships": {
+            "friend": "Ryu"
+        },
+        "videos": [
+            "https://www.youtube.com/embed/EqNu3Kxdwgg?si=23QA8hWPe9apATsL"
         ]
     },
     {
@@ -178,7 +227,7 @@
         "first_appearance": "Virtua Fighter (1993)",
         "universe": "Virtua Fighter",
         "gallery": [
-            "https://content-eu.drive.amazonaws.com/cdproxy/templink/vGy6JqSbXKspjvyL6HeMC7Lt6o2D-FG9aFFlTzvNZJUeJxFPc?viewBox=1103",
+            "images/akira-1.png",
             "images/akira-2.png",
             "images/akira-3.png",
             "images/akira-4.png"
@@ -214,8 +263,8 @@
             "brother": "Jacky Bryant"
         },
         "videos": [
-            "https://www.youtube.com/embed/2nJMzEV7jqY",
-            "https://www.youtube.com/embed/Fm6ypJIbuz0"
+            "https://www.youtube.com/embed/CQFc42jowCg?si=32hpdw06xiC9RwD8",
+            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA"
         ]
     },
     {
@@ -240,8 +289,8 @@
             "daughter": "Pai Chan"
         },
         "videos": [
-            "https://www.youtube.com/embed/l9lqxyFoKdo",
-            "https://www.youtube.com/embed/Ljo9gEbX6kk"
+            "https://www.youtube.com/embed/rnXBT8qPAro?si=I-n_03Yq0KXc3iBz",
+            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA"
         ]
     }
 ]

@@ -11,7 +11,7 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path="" element={<Home />} />
+        <Route path="/baam" element={<Home />} />
         <Route path="/character/:id" element={<CharacterPage />} />
         <Route path="/about" element={<About />} />
         <Route path="/universe/:name" element={<UniversePage />} />
