@@ -71,4 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Source
 
+pinterest
 https://fr.pinterest.com/pin/621215342380579454/
+
+imgur
+https://imgur.com/account/settings
+
+https://www.fightersgeneration.com/characters/akuma-a.html

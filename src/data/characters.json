@@ -1,5 +1,117 @@
 [
     {
+        "id": "akira",
+        "name": "Akira Yuki",
+        "image": "images/akira-4.png",
+        "origin": "Japon",
+        "style": "Ba Ji Quan",
+        "age": 27,
+        "description": "Maître du Ba Ji Quan, Akira est le protagoniste principal de Virtua Fighter. Calme, déterminé, et animé par la recherche de la perfection martiale.",
+        "quotes": [
+            "I will show you the essence of Bajiquan!"
+        ],
+        "first_appearance": "Virtua Fighter (1993)",
+        "universe": "Virtua Fighter",
+        "gallery": [
+            "images/akira-1.png",
+            "images/akira-2.png",
+            "images/akira-3.png",
+            "images/akira-4.png"
+        ],
+        "relationships": {
+            "grandfather": "Akira's Grandfather (Ba Ji master)"
+        },
+        "videos": [
+            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA",
+            "https://www.youtube.com/embed/jFGcGOE2cSw?si=YAoHLFUbTvyZWMv7",
+            "https://www.youtube.com/embed/Ie0iSDzcX98?si=_PuXlqqp64-XzyTe",
+            "https://www.youtube.com/embed/mxg6hKwHB_E?si=lzXecGy391ZIfMU1",
+            "https://www.youtube.com/embed/5YIRnSkAYQM?si=bComEAcW71WE4KgI"
+        ]
+    },
+    {
+        "id": "pai",
+        "name": "Pai Chan",
+        "image": "images/pai.png",
+        "origin": "Chine",
+        "style": "Mízōngquán (Ensei-ken)",
+        "age": 18,
+        "description": "Pai Chan (パイ・チェン, Pai Chen ) (née le 17 mai 1975 à Hong Kong) [ 2 ] [ 3 ] est une star de cinéma d'arts martiaux dans sa ville natale et la fille du célèbre artiste martial chinois  Lau Chan . Son style de combat est  le Mízōngquán  (prononcé « Ensei-ken » en japonais).",
+        "quotes": [
+            ""
+        ],
+        "first_appearance": "Virtua Fighter (1993)",
+        "universe": "Virtua Fighter",
+        "gallery": [
+            "images/pai-1.png",
+            "images/pai-2.png",
+            "images/pai-1.gif"
+        ],
+        "relationships": {
+            "grandfather": "Akira's Grandfather (Ba Ji master)"
+        },
+        "videos": [
+            "https://www.youtube.com/embed/S1z3Qv4i6ng?si=ZhAfq9bMOu5ruJrJ",
+            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA",
+            "https://www.youtube.com/embed/UHlulnuMOtA?si=xSddR_MnLalc0X1P",
+            "https://www.youtube.com/embed/dA584RWKoE8?si=VV9kTwNAJdHamyi8",
+            "https://www.youtube.com/embed/FFU5lx-RfNA?si=d2btW45BeNJIuAIi",
+            "https://www.youtube.com/embed/niaAXIazM-U?si=nKACnAjit0K1Ahwv"
+        ]
+    },
+    {
+        "id": "sarah",
+        "name": "Sarah Bryant",
+        "image": "images/sarah-2.png",
+        "origin": "États-Unis",
+        "style": "Jeet Kune Do",
+        "age": 25,
+        "description": "Sœur de Jacky Bryant, Sarah a été enlevée et programmée pour combattre son frère. Elle est rapide, agile, et redoutable en combat rapproché.",
+        "quotes": [
+            "Ready to lose?"
+        ],
+        "first_appearance": "Virtua Fighter (1993)",
+        "universe": "Virtua Fighter",
+        "gallery": [
+            "images/sarah-1.png",
+            "images/sarah-2.png"
+        ],
+        "relationships": {
+            "brother": "Jacky Bryant"
+        },
+        "videos": [
+            "https://www.youtube.com/embed/CQFc42jowCg?si=32hpdw06xiC9RwD8",
+            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA",
+            "https://www.youtube.com/embed/FFU5lx-RfNA?si=d2btW45BeNJIuAIi"
+        ]
+    },
+    {
+        "id": "lau",
+        "name": "Lau Chan",
+        "image": "images/lau.png",
+        "origin": "Chine",
+        "style": "Koen-ken",
+        "age": 57,
+        "description": "Maître chinois respecté, Lau Chan cherche à perfectionner son style Koen-ken. Il est l’un des plus anciens personnages de Virtua Fighter.",
+        "quotes": [
+            "You are not yet ready!"
+        ],
+        "first_appearance": "Virtua Fighter (1993)",
+        "universe": "Virtua Fighter",
+        "gallery": [
+            "images/lau-1.png",
+            "images/lau-2.png",
+            "images/lau-3.png"
+        ],
+        "relationships": {
+            "daughter": "Pai Chan"
+        },
+        "videos": [
+            "https://www.youtube.com/embed/rnXBT8qPAro?si=I-n_03Yq0KXc3iBz",
+            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA"
+        ]
+    },
+    {
         "id": "kazuya",
         "name": "Kazuya Mishima",
         "image": "images/kazuya.png",
@@ -90,8 +202,8 @@
             "friend": "Ryu"
         },
         "videos": [
-            "https://www.youtube.com/embed/CstA0ys0Rfk",
-            "https://www.youtube.com/embed/fPl2mQ5obg8?si=sb073IlQ9Kq2mNVh"
+            "https://www.youtube.com/embed/gip4mso1h70?si=U0khjtrBKLZxYBt_",
+            "https://www.youtube.com/embed/TnjjU4b_4Uc?si=WQpk6lphJE0pr7tV"
         ]
     },
     {
@@ -116,181 +228,6 @@
         },
         "videos": [
             "https://www.youtube.com/embed/EqNu3Kxdwgg?si=23QA8hWPe9apATsL"
-        ]
-    },
-    {
-        "id": "kendo",
-        "name": "Kendo Kenzaki",
-        "image": "images/kendo.png",
-        "origin": "Tokyo, Japon",
-        "style": "Kenjutsu augmenté",
-        "description": "Kendo est un ancien soldat cybernétique maîtrisant le sabre et la vitesse fulgurante.",
-        "quotes": [
-            "Mon katana voit plus vite que tes pensées."
-        ],
-        "gallery": [
-            "images/kendo.png",
-            "images/kendo-1.png",
-            "images/kendo-2.png"
-        ],
-        "first_appearance": "BAAM Origins",
-        "universe": "BAAM",
-        "relationships": {
-            "rival": "Zero-Unit",
-            "mentor": "Maître Takeshi"
-        }
-    },
-    {
-        "id": "zero-unit",
-        "name": "ZERO-UNIT",
-        "image": "images/zero-2.jpeg",
-        "origin": "Laboratoire clandestin N-11",
-        "style": "Combat automatique (AI martial system)",
-        "description": "ZERO-UNIT est un robot de combat expérimental échappé du contrôle militaire.",
-        "quotes": [
-            "Objectif : Domination totale."
-        ],
-        "first_appearance": "BAAM Revolt",
-        "universe": "BAAM",
-        "gallery": [
-            "images/zero-1.jpeg",
-            "images/zero-2.jpeg"
-        ],
-        "relationships": {
-            "creator": "Dr. Vahlen",
-            "enemy": "Kendo"
-        }
-    },
-    {
-        "id": "naomi",
-        "name": "Naomi K.",
-        "image": "images/naomi.png",
-        "origin": "Lagos, Nigeria",
-        "style": "Danse du feu / Techno-kickboxing",
-        "description": "Naomi combine art ancestral et rythmes électro pour hypnotiser ses adversaires.",
-        "quotes": [
-            "La musique est mon arme."
-        ],
-        "first_appearance": "BAAM Pulse",
-        "universe": "BAAM",
-        "relationships": {
-            "friend": "Lina Torres",
-            "teacher": "Grandma Oyá"
-        }
-    },
-    {
-        "id": "lina",
-        "name": "Lina Torres",
-        "image": "images/lina.png",
-        "origin": "Medellín, Colombie",
-        "style": "Combat urbain furtif",
-        "description": "Ancienne hackeuse reconvertie en combattante rebelle, experte en infiltration.",
-        "quotes": [
-            "On ne me voit que quand il est trop tard."
-        ],
-        "first_appearance": "BAAM Rebellion",
-        "universe": "BAAM",
-        "relationships": {
-            "partner": "Naomi K.",
-            "enemy": "Corpo-Cadre"
-        },
-        "videos": []
-    },
-    {
-        "id": "fenrir",
-        "name": "Fenrir",
-        "image": "images/fenrir.png",
-        "origin": "Terres gelées du Nord",
-        "style": "Style berserker cybernétique",
-        "description": "Guerrier mi-homme mi-machine, Fenrir sème la destruction sur les arènes gelées.",
-        "quotes": [
-            "Je suis le froid. Je suis la fin."
-        ],
-        "first_appearance": "BAAM Frost",
-        "universe": "BAAM",
-        "relationships": {
-            "clan": "Les Enfants du Néant",
-            "chasseur": "ZERO-UNIT"
-        }
-    },
-    {
-        "id": "akira",
-        "name": "Akira Yuki",
-        "image": "images/akira-4.png",
-        "origin": "Japon",
-        "style": "Ba Ji Quan",
-        "age": 27,
-        "description": "Maître du Ba Ji Quan, Akira est le protagoniste principal de Virtua Fighter. Calme, déterminé, et animé par la recherche de la perfection martiale.",
-        "quotes": [
-            "I will show you the essence of Bajiquan!"
-        ],
-        "first_appearance": "Virtua Fighter (1993)",
-        "universe": "Virtua Fighter",
-        "gallery": [
-            "images/akira-1.png",
-            "images/akira-2.png",
-            "images/akira-3.png",
-            "images/akira-4.png"
-        ],
-        "relationships": {
-            "grandfather": "Akira's Grandfather (Ba Ji master)"
-        },
-        "videos": [
-            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA",
-            "https://www.youtube.com/embed/jFGcGOE2cSw?si=YAoHLFUbTvyZWMv7",
-            "https://www.youtube.com/embed/Ie0iSDzcX98?si=_PuXlqqp64-XzyTe",
-            "https://www.youtube.com/embed/mxg6hKwHB_E?si=lzXecGy391ZIfMU1"
-        ]
-    },
-    {
-        "id": "sarah",
-        "name": "Sarah Bryant",
-        "image": "images/sarah-2.png",
-        "origin": "États-Unis",
-        "style": "Jeet Kune Do",
-        "age": 25,
-        "description": "Sœur de Jacky Bryant, Sarah a été enlevée et programmée pour combattre son frère. Elle est rapide, agile, et redoutable en combat rapproché.",
-        "quotes": [
-            "Ready to lose?"
-        ],
-        "first_appearance": "Virtua Fighter (1993)",
-        "universe": "Virtua Fighter",
-        "gallery": [
-            "images/sarah-1.png",
-            "images/sarah-2.png"
-        ],
-        "relationships": {
-            "brother": "Jacky Bryant"
-        },
-        "videos": [
-            "https://www.youtube.com/embed/CQFc42jowCg?si=32hpdw06xiC9RwD8",
-            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA"
-        ]
-    },
-    {
-        "id": "lau",
-        "name": "Lau Chan",
-        "image": "images/lau.png",
-        "origin": "Chine",
-        "style": "Koen-ken",
-        "age": 57,
-        "description": "Maître chinois respecté, Lau Chan cherche à perfectionner son style Koen-ken. Il est l’un des plus anciens personnages de Virtua Fighter.",
-        "quotes": [
-            "You are not yet ready!"
-        ],
-        "first_appearance": "Virtua Fighter (1993)",
-        "universe": "Virtua Fighter",
-        "gallery": [
-            "images/lau-1.png",
-            "images/lau-2.png",
-            "images/lau-3.png"
-        ],
-        "relationships": {
-            "daughter": "Pai Chan"
-        },
-        "videos": [
-            "https://www.youtube.com/embed/rnXBT8qPAro?si=I-n_03Yq0KXc3iBz",
-            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA"
         ]
     }
 ]

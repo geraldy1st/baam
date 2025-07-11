@@ -1,0 +1,97 @@
+[
+    {
+        "id": "kendo",
+        "name": "Kendo Kenzaki",
+        "image": "images/kendo.png",
+        "origin": "Tokyo, Japon",
+        "style": "Kenjutsu augmenté",
+        "description": "Kendo est un ancien soldat cybernétique maîtrisant le sabre et la vitesse fulgurante.",
+        "quotes": [
+            "Mon katana voit plus vite que tes pensées."
+        ],
+        "gallery": [
+            "images/kendo.png",
+            "images/kendo-1.png",
+            "images/kendo-2.png"
+        ],
+        "first_appearance": "BAAM Origins",
+        "universe": "BAAM",
+        "relationships": {
+            "rival": "Zero-Unit",
+            "mentor": "Maître Takeshi"
+        }
+    },
+    {
+        "id": "zero-unit",
+        "name": "ZERO-UNIT",
+        "image": "images/zero-2.jpeg",
+        "origin": "Laboratoire clandestin N-11",
+        "style": "Combat automatique (AI martial system)",
+        "description": "ZERO-UNIT est un robot de combat expérimental échappé du contrôle militaire.",
+        "quotes": [
+            "Objectif : Domination totale."
+        ],
+        "first_appearance": "BAAM Revolt",
+        "universe": "BAAM",
+        "gallery": [
+            "images/zero-1.jpeg",
+            "images/zero-2.jpeg"
+        ],
+        "relationships": {
+            "creator": "Dr. Vahlen",
+            "enemy": "Kendo"
+        }
+    },
+    {
+        "id": "naomi",
+        "name": "Naomi K.",
+        "image": "images/naomi.png",
+        "origin": "Lagos, Nigeria",
+        "style": "Danse du feu / Techno-kickboxing",
+        "description": "Naomi combine art ancestral et rythmes électro pour hypnotiser ses adversaires.",
+        "quotes": [
+            "La musique est mon arme."
+        ],
+        "first_appearance": "BAAM Pulse",
+        "universe": "BAAM",
+        "relationships": {
+            "friend": "Lina Torres",
+            "teacher": "Grandma Oyá"
+        }
+    },
+    {
+        "id": "lina",
+        "name": "Lina Torres",
+        "image": "images/lina.png",
+        "origin": "Medellín, Colombie",
+        "style": "Combat urbain furtif",
+        "description": "Ancienne hackeuse reconvertie en combattante rebelle, experte en infiltration.",
+        "quotes": [
+            "On ne me voit que quand il est trop tard."
+        ],
+        "first_appearance": "BAAM Rebellion",
+        "universe": "BAAM",
+        "relationships": {
+            "partner": "Naomi K.",
+            "enemy": "Corpo-Cadre"
+        },
+        "videos": []
+    },
+    {
+        "id": "fenrir",
+        "name": "Fenrir",
+        "image": "images/fenrir.png",
+        "origin": "Terres gelées du Nord",
+        "style": "Style berserker cybernétique",
+        "description": "Guerrier mi-homme mi-machine, Fenrir sème la destruction sur les arènes gelées.",
+        "quotes": [
+            "Je suis le froid. Je suis la fin."
+        ],
+        "first_appearance": "BAAM Frost",
+        "universe": "BAAM",
+        "relationships": {
+            "clan": "Les Enfants du Néant",
+            "chasseur": "ZERO-UNIT"
+        }
+    }
+]
