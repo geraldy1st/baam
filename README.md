@@ -69,12 +69,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Source
+# Source
 
-pinterest
+##Images
 https://fr.pinterest.com/pin/621215342380579454/
 
-imgur
 https://imgur.com/account/settings
 
 https://www.fightersgeneration.com/characters/akuma-a.html
+
+##Bio
+https://virtuafighter.com/threads/full-script-pais-quotes.17082/
+https://tekken.fandom.com/wiki/Nina_Williams/Quotes
+
+##video intro
+https://www.youtube.com/watch?v=IW4wlX2oSqI

@@ -26,7 +26,8 @@
             "https://www.youtube.com/embed/jFGcGOE2cSw?si=YAoHLFUbTvyZWMv7",
             "https://www.youtube.com/embed/Ie0iSDzcX98?si=_PuXlqqp64-XzyTe",
             "https://www.youtube.com/embed/mxg6hKwHB_E?si=lzXecGy391ZIfMU1",
-            "https://www.youtube.com/embed/5YIRnSkAYQM?si=bComEAcW71WE4KgI"
+            "https://www.youtube.com/embed/5YIRnSkAYQM?si=bComEAcW71WE4KgI",
+            "https://www.youtube.com/embed/8ep9cK5Jeyw?si=OO_m0aCVo1UBuEeW"
         ]
     },
     {
@@ -38,9 +39,9 @@
         "age": 18,
         "description": "Pai Chan (パイ・チェン, Pai Chen ) (née le 17 mai 1975 à Hong Kong) [ 2 ] [ 3 ] est une star de cinéma d'arts martiaux dans sa ville natale et la fille du célèbre artiste martial chinois  Lau Chan . Son style de combat est  le Mízōngquán  (prononcé « Ensei-ken » en japonais).",
         "quotes": [
-            ""
+            "Shugyō-no seika, miseru-wa-yo. - I'll show you the results of my training."
         ],
-        "first_appearance": "Virtua Fighter (1993)",
+        "first_appearance": "Virtua Fighter",
         "universe": "Virtua Fighter",
         "gallery": [
             "images/pai-1.png",
@@ -48,7 +49,9 @@
             "images/pai-1.gif"
         ],
         "relationships": {
-            "grandfather": "Akira's Grandfather (Ba Ji master)"
+            "father": "Lau Chan",
+            "friends": "Akira Yuki",
+            "Enemies": "Lei Fei"
         },
         "videos": [
             "https://www.youtube.com/embed/S1z3Qv4i6ng?si=ZhAfq9bMOu5ruJrJ",
@@ -56,7 +59,8 @@
             "https://www.youtube.com/embed/UHlulnuMOtA?si=xSddR_MnLalc0X1P",
             "https://www.youtube.com/embed/dA584RWKoE8?si=VV9kTwNAJdHamyi8",
             "https://www.youtube.com/embed/FFU5lx-RfNA?si=d2btW45BeNJIuAIi",
-            "https://www.youtube.com/embed/niaAXIazM-U?si=nKACnAjit0K1Ahwv"
+            "https://www.youtube.com/embed/niaAXIazM-U?si=nKACnAjit0K1Ahwv",
+            "https://www.youtube.com/embed/y6qzmU2BCOI?si=nKOmVK63W1QDFZ7o"
         ]
     },
     {
@@ -82,7 +86,8 @@
         "videos": [
             "https://www.youtube.com/embed/CQFc42jowCg?si=32hpdw06xiC9RwD8",
             "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA",
-            "https://www.youtube.com/embed/FFU5lx-RfNA?si=d2btW45BeNJIuAIi"
+            "https://www.youtube.com/embed/FFU5lx-RfNA?si=d2btW45BeNJIuAIi",
+            "https://www.youtube.com/embed/uZSCdWx7cqo?si=bnD93QeTy6hLU1CL"
         ]
     },
     {
@@ -108,7 +113,8 @@
         },
         "videos": [
             "https://www.youtube.com/embed/rnXBT8qPAro?si=I-n_03Yq0KXc3iBz",
-            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA"
+            "https://www.youtube.com/embed/IKSopFc-DaE?si=KOHjZgg-2zus_VbA",
+            "https://youtube.com/embed/e78TXYUWhbw?si=-6n--rL1GrOISAi0"
         ]
     },
     {
@@ -158,7 +164,41 @@
             "granddaughter": "Reina Mishima",
             "grandson": "Jin Kazama"
         },
-        "video": "https://www.youtube.com/embed/CstA0ys0Rfk"
+        "videos": [
+            "https://www.youtube.com/embed/QZWDIKKvNrc?si=nyh3nvnqOwGk274e",
+            "https://www.youtube.com/embed/E8zGoU38iRA?si=8j8UGfHrra0X5W-6"
+        ]
+    },
+    {
+        "id": "nina",
+        "name": "Nina Williams",
+        "image": "images/nina.png",
+        "origin": "Ireland",
+        "age": 24,
+        "style": "Assassination Arts based on Aikido and Koppojutsu",
+        "description": "Nina Williams est une assassin irlandaise impitoyable qui a fait sa première apparition dans le jeu Tekken original et est apparue dans tous les jeux Tekken depuis. Nina est une assassin à gages douce et distante, et entretient une rivalité notoire avec sa sœur cadette, Anna Williams.",
+        "quotes": [
+            "Come on baby, show me what you've got"
+        ],
+        "first_appearance": "Tekken",
+        "universe": "Tekken",
+        "gallery": [
+            "images/nina-1.png",
+            "images/nina-2.png",
+            "images/nina-3.png",
+            "images/nina-4.png",
+            "images/nina-5.png",
+            "images/nina-6.png",
+            "images/nina.gif"
+        ],
+        "relationships": {
+            "sister": "Anna Williams",
+            "related": "Steve Fox"
+        },
+        "videos": [
+            "https://www.youtube.com/embed/frrp0GPmh5I?si=Gf8WyfR2SGbvw1Ta",
+            "https://www.youtube.com/embed/IW4wlX2oSqI?si=VX9JH5LzgNjHx0sS"
+        ]
     },
     {
         "id": "ryu",
@@ -166,31 +206,36 @@
         "image": "images/ryu.png",
         "origin": "Japon",
         "style": "Hado",
-        "age": "Unknown",
-        "description": "coming soon...",
+        "age": 23,
+        "description": "Ryu is the main protagonist of the Street Fighter series, first appearing in the original Street Fighter He is an experienced martial artist, highly focused on his training, aiming to become the strongest he can.",
         "quotes": [
-            "..."
+            "You fought well. I was honored."
         ],
         "first_appearance": "Street Fighter",
         "universe": "Street Fighter",
         "relationships": {
-            "friend": "Ken Master"
+            "friends": [
+                "Ken Master - ",
+                "Chun Li"
+            ]
         },
         "videos": [
-            "https://www.youtube.com/embed/CstA0ys0Rfk",
-            "https://www.youtube.com/embed/fPl2mQ5obg8?si=sb073IlQ9Kq2mNVh"
+            "https://www.youtube.com/embed/-9MB38W2Gfw?si=42KEMhTWfhSc0obj",
+            "https://www.youtube.com/embed/TnjjU4b_4Uc?si=AxiIuQGjWCoruCtu",
+            "https://www.youtube.com/embed/2HoK9jMA1vk?si=9ZJ-L_uohNc13gnn",
+            "https://www.youtube.com/embed/LCXEPXfTsEk?si=jA0OPd7NTlxnnwHc"
         ]
     },
     {
         "id": "ken",
         "name": "Ken Master",
         "image": "images/ken.png",
-        "origin": "Japon",
+        "origin": "USA",
         "style": "Hado",
         "age": "Unknown",
-        "description": "coming soon...",
+        "description": "Ken Masters est le deutéragoniste de la série Street Fighter, apparu pour la première fois dans le premier Street Fighter. À l'instar de son meilleur ami et rival de longue date Ryu, Ken a pour objectif de tester sa puissance face à de nombreux combattants et s'efforce de devenir plus fort, mais il fait preuve de plus de retenue pour ne pas compromettre sa vie de famille.",
         "quotes": [
-            "..."
+            "You are not bad, but not good either."
         ],
         "gallery": [
             "images/ken-1.png",
@@ -213,13 +258,14 @@
         "origin": "Chine",
         "style": "Kung fu",
         "age": "Unknown",
-        "description": "coming soon...",
+        "description": "Chun-Li (春麗 ou チュンリー Shunrei ou Chunrī?, chinois simplifié : 春丽 chūnlì), également connue sous le nom de Maître d'Arts Martiaux (格闘技マスター Kakutōgi masutā?, chinois simplifié : 武术大师)[12] est la tritagoniste et principale protagoniste féminine de la série Street Fighter, initialement apparue dans Street Fighter II. Première combattante de la série, elle est une experte en arts martiaux et agente d'Interpol qui cherche sans relâche à se venger de la mort de son père aux mains de M. Bison. Elle prend ensuite sa retraite, devenant professeur de Kung Fu et gardienne de Li-Fen.",
         "quotes": [
-            "..."
+            "I am the strongest woman in the world!"
         ],
         "gallery": [
             "images/chunli-1.png",
-            "images/chunli-2.png"
+            "images/chunli-2.png",
+            "images/chunli-3.png"
         ],
         "first_appearance": "Street Fighter",
         "universe": "Street Fighter",
